@@ -1,44 +1,34 @@
-# EdWrld's Portfolio 👨‍💻
+# Welcome to EdWrld's GitHub Profile! 👋
 
-Welcome to EdWrld's Portfolio! 🚀 This portfolio showcases the skills, projects, and experiences of Edward Utria, a talented full-stack developer. Explore various projects, skills, and personal achievements.
+![Header](header.png)
 
-## Table of Contents
+Hello, fellow developers! Welcome to my GitHub profile. I'm Edward Utria, a passionate full-stack developer with a knack for creating innovative solutions and turning ideas into reality. I'm always excited to learn, grow, and collaborate on exciting projects.
 
-- [About](#about)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+## 🌟 What You'll Find Here
 
-## About ℹ️
+- **Projects**: Explore a diverse range of projects showcasing my skills and creativity.
+- **Contributions**: Dive into my contributions to open-source projects and personal endeavors.
+- **Skills**: Discover the programming languages, frameworks, and tools I work with.
+- **Connect**: Let's connect and collaborate! Feel free to reach out.
 
-Edward Utria is an Application Developer based in Louisville, KY. With a passion for learning and growth, he brings over 2 years of experience in building and maintaining applications. His unique ability to adapt to new situations and technologies sets him apart, and his dedication to quality and collaboration shines through in his work.
+## 🚀 Projects I'm Proud Of
 
-## Projects 🛠️
+- [CsGrader](link-to-csgrader): A Cloud Native Program Grading application for efficient program assignment grading.
+- [Workout No Excuses](link-to-workout-app): An Android app targeting users struggling with exercise routines.
+- [Project Reharm](link-to-reharm): A deep-learning neural network that harmonizes piano melodies.
 
-Explore EdWrld's diverse projects that showcase his technical expertise and creativity. Highlights include:
-
-- **CsGrader:** A Cloud Native Program Grading application for teachers to efficiently grade program assignments submitted by students.
-
-- **Workout No Excuses:** An Android application targeting users having trouble exercising, providing workout scheduling and random YouTube workout video recommendations.
-
-- **Project Reharm:** A deep-learning recurrent neural network that harmonizes piano melodies using music theory.
-
-## Skills 🚀
-
-EdWrld is proficient in a wide range of skills, including:
+## 💼 Skills
 
 - Programming Languages: Java, Kotlin, C++, Rust, Python, Go, Angular, React, JavaScript, TypeScript
-- Databases: SQL, DynamoDB
 - Frameworks: Spring, Quarkus, TensorFlow, Junit, Kotest, Xunit
 - Cloud Technologies: AWS Lambda, Kafka, Redis, API Gateway
 - Development Tools: Jetbrains Suite (IntelliJ), VsCode, Git, Anaconda
 
-## Contact 📞
+## 🤝 Let's Connect
 
-Connect with Edward Utria:
+- [LinkedIn](https://www.linkedin.com/in/edward-utria/): Connect professionally on LinkedIn.
+- [Email](edwardutria12@gmail.com) send me a email
 
-- Email: edwardutria12@gmail.com 📧
-- GitHub: [EdWrld](https://github.com/EdWrld) 🐱
-- LinkedIn: [Edward Utria](https://www.linkedin.com/in/edward-utria/) 👔
+Feel free to explore my repositories, star your favorites, and connect. Let's make the coding world a better place together! 🌎
 
-Feel free to explore the portfolio and get in touch! 🌟
+![Edwrld GitHub stats](https://github-readme-stats.vercel.app/api?username=edwrld&show_icons=true&theme=radical)
