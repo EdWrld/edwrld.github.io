@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import Style from './Navbar.module.scss';
-import Toggler from "./home/Toggler";
 import {Link, useLocation} from "react-router-dom";
 import {Box} from "@mui/material";
 import {info} from "../info/Info";
@@ -37,9 +36,15 @@ export default function Navbar({darkMode, handleClick}) {
 
     return (
         <Box component={'nav'} width={'100%'}>
-            <Box component={'ul'} display={'flex'} justifyContent={'center'} alignItems={'center'}
-                 gap={{xs: '2rem', md: '5rem'}}
-                 textTransform={'lowercase'} fontSize={'2rem'}>
+            <Box
+                component={'ul'}
+                display={'flex'}
+                justifyContent={'center'}
+                alignItems={'center'}
+                gap={{xs: '2rem', md: '5rem'}}
+                textTransform={'lowercase'}
+                fontSize={'2rem'}
+                style={{ marginLeft: '35px' }}>
                 {links.map((link, index) => (
                     <Box key={index} component={'li'} className={(link.active === active && !link.type) && Style.active}
                          sx={{borderImageSource: info.gradient}}>
